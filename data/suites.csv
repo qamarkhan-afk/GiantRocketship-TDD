@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","1397","User should see errors on submitting form with name only","chromium","Wed Feb 18 10:52:10 UTC 2026","passed","Wed Feb 18 10:52:11 UTC 2026","","TC_01_Verify_contact_us_form_is_working_as_expected.spec.ts","",""
+"","1529","User should see errors on empty form submit","chromium","Wed Feb 18 10:51:58 UTC 2026","passed","Wed Feb 18 10:52:00 UTC 2026","","TC_01_Verify_contact_us_form_is_working_as_expected.spec.ts","",""
+"","204","User should see error on submitting form with name and email only","chromium","Wed Feb 18 10:52:11 UTC 2026","passed","Wed Feb 18 10:52:11 UTC 2026","","TC_01_Verify_contact_us_form_is_working_as_expected.spec.ts","",""
+"","4195","User should be able to submit form successfully with all required details","chromium","Wed Feb 18 10:52:11 UTC 2026","passed","Wed Feb 18 10:52:15 UTC 2026","","TC_01_Verify_contact_us_form_is_working_as_expected.spec.ts","",""
